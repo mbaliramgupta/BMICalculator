@@ -2,7 +2,7 @@
 using namespace std;
 
 int main()
-{   float height,weight;
+{   float height, weight;
 string bmi1;
     cout<<endl<<"                           WELCOME | BMI CALCULATOR                           "<<endl;
     cout<<"-------------------------------------------------------------------------------"<<endl;
@@ -40,7 +40,7 @@ string bmi1;
        exit(EXIT_SUCCESS);
     
     default:
-    cout<<"You have choose a wrong option!.Try Again"<<endl;
+    cout<<"You have choose a wrong option!.Try Again "<<endl;
         break;
     }
     return 0;
