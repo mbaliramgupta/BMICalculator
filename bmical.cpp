@@ -40,7 +40,7 @@ string bmi1;
        exit(EXIT_SUCCESS);
     
     default:
-    cout<<endl<<"You have choose a wrong option!.Try Again "<<endl;
+    cout<<endl<<"You have choose a wrong option!"<<endl;
         break;
     }
     return 0;
