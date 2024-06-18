@@ -10,7 +10,7 @@ string bmi1;
     cout<<"   MENU:"<<endl;
     cout<<"Enter your height in cm:";
     cin>>height;
-    cout<<"-------------------------"<<endl;
+    cout<<"------------------------- "<<endl;
     cout<<"Enter your weight in kg:";
     cin>>weight;
     cout<<endl<<endl;
@@ -40,7 +40,7 @@ string bmi1;
        exit(EXIT_SUCCESS);
     
     default:
-    cout<<endl<<"You have choose a wrong option!"<<endl;
+    cout<<endl<<"You have choose a wrong option! "<<endl;
         break;
     }
     return 0;
